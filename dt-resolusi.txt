@@ -2,4 +2,4 @@ DT Resolusi
 - consist to learn about github
 - support project team with external team another r&D
 - extra learn r&D framework
-collaborator with internal issue
+sudah collab
